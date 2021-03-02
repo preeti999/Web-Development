@@ -1,0 +1,34 @@
+div {
+  background-color: rgb(197, 238, 238);
+  border: 2px;
+  margin: 10px;
+  font-size: 2rem;
+  text-align: justify;
+  position: sticky;
+  height: auto;
+  width: 500px;
+}
+div {
+  position: sticky;
+  top: 10px;
+}
+
+dd::before {
+  content: "\2706";
+  font-weight: 900;
+  font-size: 50px;
+}
+
+h1 {
+  background-color: gray;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+section {
+  margin-left: 400px;
+  margin-right: 400px;
+  background-color: coral;
+  border-radius: 10px;
+  position: absolute;
+}

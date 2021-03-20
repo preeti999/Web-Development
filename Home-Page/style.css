@@ -132,6 +132,9 @@ nav .links a:hover {
   height: 100vh;
   /* background: rgba(0, 0, 0, 0.5); */
 }
+h1{
+  /* text-transform: uppercase; */
+}
 @keyframes slide {
   0%,
   100% {
@@ -237,7 +240,7 @@ html {
   padding: 1.5rem;
   font-size: 2rem;
   text-align: center;
-  color: #3363ff;
+  color: #081a53;
   background-color: #d8e0fd;
   border: none;
   border-radius: 0.4rem;
@@ -275,7 +278,7 @@ html {
 
 .footer{
   height: 50px;
-  background-color: #0077b6;
+  background-color: #072130;
   width: 100%;
   text-align: center;
   padding-top: 30px;
